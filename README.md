@@ -27,7 +27,8 @@ No frameworks. No libraries. Just clean HTML, CSS, and Vanilla JavaScript.
 
 ---
 
-🚀 Demo Preview
+## 🚀 Demo Preview
+
 ![Preview](./public/Heart.png)
 
 ---
